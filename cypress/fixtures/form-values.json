@@ -1,0 +1,18 @@
+[
+{
+  "campaignName": "Test Campaign 1",
+  "campaignOwnSl": "My first campaign",
+  "campaignListSize": 500000,
+  "campaignBaselineOpenRate": 10,
+  "campaignDate": "04/07/2021",
+  "campaignType": "Discount off Product"
+},
+{
+  "campaignName": "Test Campaign 2",
+  "campaignOwnSl": "My second campaign",
+  "campaignListSize": 10000,
+  "campaignBaselineOpenRate": 30,
+  "campaignDate": "04/14/2021",
+  "campaignType": "Discount"
+}
+]
